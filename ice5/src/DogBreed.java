@@ -1,0 +1,1 @@
+enum DogBreed { BULLDOG, HUSKY, BEAGLE, POODLE, OTHER }
